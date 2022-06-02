@@ -1,1 +1,1 @@
-# command for the win project
+This is a challenge project
